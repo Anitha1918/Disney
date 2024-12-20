@@ -1,3 +1,6 @@
 This is an introduction file about the application.
 
 The name of application is "Onebot".
+
+
+This is the new line added.
