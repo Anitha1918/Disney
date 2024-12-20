@@ -1,1 +1,6 @@
-I am sample Anna file with java extension.
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
