@@ -1,6 +1,4 @@
-This is an introduction file about the application.
-
+Mona 
+Elsa
 The name of application is "Onebot".
-
-
 This is the new line added.
