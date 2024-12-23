@@ -1,3 +1,1 @@
-hi how r u?
-
-am doing good.
+UPdated readme file ny anitha.
